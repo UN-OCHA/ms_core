@@ -8,4 +8,5 @@ dependencies[] = text
 dependencies[] = title
 features[features_api][] = api:2
 features[field_base][] = field_ms_hrinfo_id
+features[field_base][] = field_ms_rw_id
 features[field_base][] = name_field
