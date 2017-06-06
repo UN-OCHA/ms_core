@@ -14,5 +14,6 @@ features[field_base][] = field_ms_hrinfo_id
 features[field_base][] = field_ms_rw_id
 features[field_base][] = name_field
 features[field_base][] = title_field
+features[variable][] = date_format_ms_date
 features[variable][] = entity_translation_entity_types
 features[variable][] = entity_translation_taxonomy
