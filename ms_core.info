@@ -1,4 +1,5 @@
 name = Core
+description = Core module for the microservice suite
 core = 7.x
 package = Microservice
 dependencies[] = ctools
