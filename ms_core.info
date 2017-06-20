@@ -11,6 +11,7 @@ dependencies[] = text
 dependencies[] = title
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:2
+features[field_base][] = description_field
 features[field_base][] = field_ms_hrinfo_id
 features[field_base][] = field_ms_rw_id
 features[field_base][] = name_field

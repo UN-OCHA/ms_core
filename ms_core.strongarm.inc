@@ -39,7 +39,9 @@ function ms_core_strongarm() {
     'ms_local_group' => TRUE,
     'ms_organization' => TRUE,
     'ms_location' => TRUE,
+    'hr_population_type' => FALSE,
     'reg_population_type' => TRUE,
+    'ms_rw_themes' => FALSE,
   );
   $export['entity_translation_taxonomy'] = $strongarm;
 
